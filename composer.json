@@ -1,5 +1,5 @@
 {
-    "name": "borantula/l4-ldap-ntlm",
+    "name": "wells/l4-ldap-ntlm",
     "type": "library",
     "description": "An LDAP/Active Directory/NTLM authentication driver for Laravel 4. Forked from wells/l4-ldap-ntlm",
     "keywords": ["laravel", "L4", "LDAP", "Authentication", "Laravel 4", "auth"],
