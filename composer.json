@@ -1,14 +1,18 @@
 {
-    "name": "wells/l4-ldap-ntlm",
+    "name": "borantula/l4-ldap-ntlm",
     "type": "library",
-    "description": "An LDAP/Active Directory/NTLM authentication driver for Laravel 4.",
+    "description": "An LDAP/Active Directory/NTLM authentication driver for Laravel 4. Forked from wells/l4-ldap-ntlm",
     "keywords": ["laravel", "L4", "LDAP", "Authentication", "Laravel 4", "auth"],
-    "homepage": "https://github.com/wells/l4-ldap-ntlm",
+    "homepage": "https://github.com/borantula/l4-ldap-ntlm",
     "license": "MIT",
     "authors": [
         {
             "name": "Brian Wells",
             "email": "wells@users.noreply.github.com"
+        },
+        {
+            "name": "Bora Yalçın",
+            "email": "email@borayalcin.me"
         }
     ],
     "require": {
