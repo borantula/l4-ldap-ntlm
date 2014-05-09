@@ -11,6 +11,14 @@ Installation
 To install this in your application add the following to your `composer.json` file
 
 ```json
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/borantula/l4-ldap-ntlm"
+        }
+    ],
+```
+```json
 require {
 	"wells/l4-ldap-ntlm": "dev-master"
 }
